@@ -1,0 +1,7 @@
+exercise/sim/
+exercise/syn/
+*.log
+*.fsdb
+*.vpd
+*.daidir
+*.key
